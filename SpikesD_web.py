@@ -2,8 +2,8 @@
 '''
 -----------------------------------------------------------------------------------------------------
     Streamlit Web Application: Spikes Decoder (SpikesD) Web Version
-    Version:          v1.0.3 (English UI with Real DAT File Reading)
-    Description:      Spike Detection Web Application with English UI
+    Version:          v0.1.0 
+    Description:      Spike Detection Web Application 
     Author:           Li Jialin (adapted for Streamlit)
 -----------------------------------------------------------------------------------------------------
 '''
